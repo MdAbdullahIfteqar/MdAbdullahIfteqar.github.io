@@ -198,8 +198,8 @@ const resumeSection = {
 const contactInfo = {
   title: emoji("Contact Me ☎️"),
   subtitle: "Discuss a project, collaboration, or just say hi!",
-  number: "+1-000-000-0000",
-  email_address: "your.email@example.com"
+  number: "+1-416-826-4640",
+  email_address: "md.abdullah.ifteqar.of@gmail.com"
 };
 
 const twitterDetails = {
